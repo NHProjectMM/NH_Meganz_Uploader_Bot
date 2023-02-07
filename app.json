@@ -12,10 +12,10 @@
     "bot",
     "uploader"
   ],
-  "success_url": "https://t.me/mega_downloader_robot",
-  "website": "https://github.com/XMYSTERlOUSX/mega-link-downloader-bot",
+  "success_url": "https://t.me/NH_Mega_Uploader_Bot",
+  "website": "https://github.com/NHProjectMM",
   "logo": "https://telegra.ph/file/a438489c44d17d108f7b5.jpg",
-  "repository": "https://github.com/XMYSTERlOUSX/mega-link-downloader-bot",
+  "repository": "https://github.com/NHProjectMM/NH_Meganz_Uploader_Bot",
   "stack": "container",
   "env": {
     "WEBHOOK": {
