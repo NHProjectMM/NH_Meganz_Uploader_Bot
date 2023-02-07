@@ -1,34 +1,34 @@
 import os
 
 class Config(object):
-    TG_BOT_TOKEN = os.environ.get("TG_BOT_TOKEN", "5869348525:AAEB4Ge3mm5G1Er4rjvZIwiUyZxtlzN0IIs") # Make a bot from https://t.me/BotFather and enter the token here
+    TG_BOT_TOKEN = os.environ.get("TG_BOT_TOKEN", "") # Make a bot from https://t.me/BotFather and enter the token here
     #If deploying on vps edit the above value as example := TG_BOT_TOKEN = "Your-bot-token-inside-inverted-commas."
     
-    APP_ID = int(os.environ.get("APP_ID", 7978114)) # Get this value from https://my.telegram.org/apps
+    APP_ID = int(os.environ.get("APP_ID", 123456)) # Get this value from https://my.telegram.org/apps
     #If deploying on vps edit the above value as example := APP_ID = Your-APP_ID-without-inverted-commas
     
-    API_HASH = os.environ.get("API_HASH", "5f7839feeba133497f24acfd005ef2ec") # Get this value from https://my.telegram.org/apps
+    API_HASH = os.environ.get("API_HASH", "") # Get this value from https://my.telegram.org/apps
     #If deploying on vps edit the above value as example := API_HASH = "Your-API_HASH-inside-inverted-commas."
     
-    Mega_email = os.environ.get("Mega_email", "ngahtut.kho@gmail.com") # This is not necessary! Enter your mega email only if you have a mega.nz account with pro/business features.
+    Mega_email = os.environ.get("Mega_email", "") # This is not necessary! Enter your mega email only if you have a mega.nz account with pro/business features.
     #If deploying on vps edit the above value as example := Mega_email = "Your-Mega_email-inside-inverted-commas."
     
-    Mega_password = os.environ.get("Mega_password", "505953KhoPep$") # This is not necessary! Enter your mega password only if you have a mega.nz account with pro/business features.
+    Mega_password = os.environ.get("Mega_password", "") # This is not necessary! Enter your mega password only if you have a mega.nz account with pro/business features.
     #If deploying on vps edit the above value as example := Mega_password = "Your-Mega_password-inside-inverted-commas."
     
-    Bot_username = os.environ.get("Bot_username", "NHMega_Bot") # Your bot's telegram username (must enter with '@' in the front of the username)
+    Bot_username = os.environ.get("Bot_username", "") # Your bot's telegram username (must enter with '@' in the front of the username)
     #If deploying on vps edit the above value as example := Bot_username = "Your-Bot_username-inside-inverted-commas."
     
-    OWNER_ID = os.environ.get("OWNER_ID", 1760280598) # Your(owner's) telegram id
+    OWNER_ID = os.environ.get("OWNER_ID", ) # Your(owner's) telegram id
     #If deploying on vps edit the above value as example := OWNER_ID = Your-telegram id-without-inverted-commas
     
-    REDIS_URI = os.environ.get("REDIS_URI", "http://redis-12663.c1.asia-northeast1-1.gce.cloud.redislabs.com:12663") # Get This Value from http://redislabs.com/try-free (If you don't know how to obtain the a video tutorial is available here:- https://t.me/botzupdate/5)
+    REDIS_URI = os.environ.get("REDIS_URI", "") # Get This Value from http://redislabs.com/try-free (If you don't know how to obtain the a video tutorial is available here:- https://t.me/botzupdate/5)
     #If deploying on vps edit the above value as example := REDIS_URI = "Your-Redis-Endpoint-inside-inverted-commas."
     
-    REDIS_PASS = os.environ.get("REDIS_PASS", "MQ4wMqmWpLduKCCXpKd0bHiGxkOtgiv2") # Get This Value from http://redislabs.com/try-free (If you don't know how to obtain the a video tutorial is available here:- https://t.me/botzupdate/5)
+    REDIS_PASS = os.environ.get("REDIS_PASS", "") # Get This Value from http://redislabs.com/try-free (If you don't know how to obtain the a video tutorial is available here:- https://t.me/botzupdate/5)
     #If deploying on vps edit the above value as example := REDIS_PASS = "Your-Redis-Password-inside-inverted-commas."
 
-    AUTH_USERS = set(int(x) for x in os.environ.get("AUTH_USERS", "1760280598").split()) # Id's of the telegram users, who you want to allow for multitasking - downloading multiple links at once!
+    AUTH_USERS = set(int(x) for x in os.environ.get("AUTH_USERS", "").split()) # Id's of the telegram users, who you want to allow for multitasking - downloading multiple links at once!
     
     #If deploying on heroku separate the ids by space. (don't put commas. Only separate each of the id's with space)
     
