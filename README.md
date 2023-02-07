@@ -3,9 +3,9 @@
 
 <p align="center">(When I mean noob I really mean noob!)</p>
 
-<b>You can find a live version of this bot in telegram as [@mega_downloader_robot](https://t.me/mega_downloader_robot)</b>
+<b>You can find a live version of this bot in telegram as [@NH_Mega_Uploader_Bot](https://t.me/NH_Mega_Uploader_Bot)</b>
 
-Created with ❤️ by <b>[@NgaHtutmm](https://t.me/NgaHtutmm)</b> as a part of [@NH_Mega_Uploader_Bot](https://t.me/NH_Mega_Uploader_Bot)
+Created with ❤️ by <b>[@NgaHtutmm](https://t.me/NgaHtutmm)</b> as a part of [@NH_Mega_Uploader_Bot](https://t.me/NgaHtutmm)
 
 <p align="center"><a href="https://t.me/rezoth_tm"><img src="https://img.shields.io/badge/Telegram-Join%20Telegram%20Group-blue.svg?logo=telegram"></a></p>
 
