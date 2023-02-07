@@ -5,9 +5,9 @@
 
 <b>You can find a live version of this bot in telegram as [@NH_Mega_Uploader_Bot](https://t.me/NH_Mega_Uploader_Bot)</b>
 
-Created with ❤️ by <b>[@NgaHtutmm](https://t.me/NgaHtutmm)</b> as a part of [@NH_Mega_Uploader_Bot](https://t.me/NgaHtutmm)
+Created with ❤️ by <b>[@NgaHtutmm](https://t.me/NgaHtutmm)</b> as a part of [@NH Project MM](https://t.me/nhprojectmm)
 
-<p align="center"><a href="https://t.me/rezoth_tm"><img src="https://img.shields.io/badge/Telegram-Join%20Telegram%20Group-blue.svg?logo=telegram"></a></p>
+<p align="center"><a href="https://t.me/nhprojectmm"><img src="https://img.shields.io/badge/Telegram-Join%20Telegram%20Group-blue.svg?logo=telegram"></a></p>
 
 Please be kind to star and fork this repo!✨😇
 <br>
