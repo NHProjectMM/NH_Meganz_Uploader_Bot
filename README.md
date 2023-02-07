@@ -5,7 +5,7 @@
 
 <b>You can find a live version of this bot in telegram as [@mega_downloader_robot](https://t.me/mega_downloader_robot)</b>
 
-Created with ❤️ by <b>[@xmysteriousx](https://t.me/xmysteriousx)</b> as a part of [@mysterious_uploader_robot](https://t.me/mysterious_uploader_robot)
+Created with ❤️ by <b>[@NgaHtutmm](https://t.me/NgaHtutmm)</b> as a part of [@NH_Mega_Uploader_Bot](https://t.me/NH_Mega_Uploader_Bot)
 
 <p align="center"><a href="https://t.me/rezoth_tm"><img src="https://img.shields.io/badge/Telegram-Join%20Telegram%20Group-blue.svg?logo=telegram"></a></p>
 
@@ -253,7 +253,7 @@ Now send your "mega.ini" file to your bot and as a reply to it send the command 
 * [Anjana](https://github.com/AnjanaMadu) for various helps!
 * [Dan](https://github.com/delivrance) for [pyrogram](https://github.com/Pyrogram)
 
-<b>Project written and created by</b> - [XMYSTERIOUSX](https://github.com/XMYSTERlOUSX)
+<b>Project written and created by</b> - [NHProjectMM](https://github.com/NHProjectMM)
 
 ---
 
